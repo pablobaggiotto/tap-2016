@@ -1,0 +1,18 @@
+CVS: 0.4
+Resumo: 1.7
+Projeto: 4.7
+Nota G1: 6.8
+================
+Feedback Resumo
+================
+tem título
+não tem Parágrafo 1,5 cm e Espaçamento entre parágrafos de 0,5 cm
+não usou corretor gráfico
+não explicou simuladores
+====================
+Feedback Projeto
+====================
+Pasta ordenacao e não Ordenação.
+Implementou somente 3 algortimos. Os métodos não imprimem na tela o vetor original e depois o vetor ordenado. 
+Não foi implementado o contador de tempo solicitado.Explanação dos métodos foi em muitos casos simplesmente copiado da Internet. Não tem referências. 
+
